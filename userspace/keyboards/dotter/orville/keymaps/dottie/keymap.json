@@ -1,0 +1,9 @@
+{
+    "keyboard": "dotter/orville",
+    "layout": "LAYOUT_ortho_4x10_enc",
+    "layers": [
+        [
+            "QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT","QK_BOOT"
+        ]
+    ]
+}
